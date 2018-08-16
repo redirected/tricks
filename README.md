@@ -18,6 +18,6 @@ create token with HS256 + public key (.pem)
 
 # Werkzeug DEBUG
 
-[Werkzeug RCE] (https://blog.keigher.ca/2014/12/remote-code-execution-on-misconfigured.html)
+[Werkzeug RCE](https://blog.keigher.ca/2014/12/remote-code-execution-on-misconfigured.html)
 
 import subprocess; subprocess.call(["payload"]);

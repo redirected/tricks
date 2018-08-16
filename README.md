@@ -15,3 +15,9 @@ create token with HS256 + public key (.pem)
 [ruby-on-rails-web-console2-rce.rb](https://github.com/0x00-0x00/CVE-2015-3224/blob/master/ruby-on-rails-web-console2-rce.rb)
 
 [CVE-2015-3224](https://github.com/redirected/tricks/blob/master/CVE-2015-3224)
+
+# Werkzeug DEBUG
+
+[Werkzeug RCE] (https://blog.keigher.ca/2014/12/remote-code-execution-on-misconfigured.html)
+
+import subprocess; subprocess.call(["payload"]);

